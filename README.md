@@ -5,6 +5,7 @@
 - 📫 you can email 1506347180@qq.com to communicate with me.
 - 🌈 Hi,这里是彩虹茶.
 -    最近在学习Netty、操作系统.
+-    这是我的个人博客:http://codecoffee.xyz
 -    希望能与你交流学习
 <!---
 Rainbowltea/Rainbowltea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

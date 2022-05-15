@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rainbowltea.
+- 👋 Hi, My name is XiangXuhuai.
 - 🏫 I’m studying in NCU.
 - 👀 I’m interested java and back end.
 - 🌱 I’m currently learning Netty and OS.
